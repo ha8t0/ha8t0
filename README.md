@@ -8,6 +8,8 @@
 
 - ❤️ I like technology and pop culture
 
+- 📝 I write articles for [Zenn](https://zenn.dev/ha8t0/) and [note](https://note.com/ha8t0/)
+
 #### 📊 Status
 
 [![Languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=ha8t0&custom_title=Languages&layout=compact&bg_color=FAFAFA&border_color=6A6A6A&title_color=2E9ACA&text_color=6A6A6A#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
